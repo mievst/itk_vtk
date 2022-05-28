@@ -8,6 +8,9 @@
 # Installing
 
 ```bash
+git clone https://github.com/mievst/itk_vtk.git
+
+```bash
 pip install -r requirements.txt
 ```
 
